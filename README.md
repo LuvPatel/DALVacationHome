@@ -22,17 +22,17 @@ DALVacationHome is a serverless, multi-cloud application designed for booking ho
 -   [License](https://github.com/LuvPatel/DALVacationHome?tab=readme-ov-file#license)
 
 
-### Features
+## Features
 
 -   **Guest Users:** Explore available rooms, check tariffs, and use a virtual assistant for basic navigation and feedback.
 -   **Registered Customers:** Benefit from multi-factor authentication, book rooms, receive virtual assistant support, and submit feedback.
 -   **Property Agents:** Access admin features to manage room listings, update details, and communicate with customers through the messaging system.
 
-### Architecture
+## Architecture
 
 The application is deployed using a multi-cloud model, leveraging a mix of AWS and GCP services. It is designed on a serverless architecture, providing scalability and efficiency.
 
-### Modules
+## Modules
 
 1.  **User Management & Authentication**
     
@@ -74,14 +74,14 @@ The application is deployed using a multi-cloud model, leveraging a mix of AWS a
 
 [](https://github.com/jeffrypaul37/DALVacationHome?tab=readme-ov-file#setup-instructions)
 
-### Prerequisites
+## Prerequisites
 
 [](https://github.com/jeffrypaul37/DALVacationHome?tab=readme-ov-file#prerequisites)
 
 -   Node.js and npm
 -   Access to AWS and GCP services
 
-### Installation
+## Installation
 
 [](https://github.com/jeffrypaul37/DALVacationHome?tab=readme-ov-file#installation)
 
