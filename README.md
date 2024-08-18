@@ -30,7 +30,10 @@ DALVacationHome is a serverless, multi-cloud application designed for booking ho
 
 ## Architecture
 
-The application is deployed using a multi-cloud model, leveraging a mix of AWS and GCP services. It is designed on a serverless architecture, providing scalability and efficiency.
+The application is deployed using a multi-cloud model, leveraging a mix of AWS and GCP services. It is designed on a serverless architecture, providing scalability and efficiency. Below is the detailed overall project architecture for DALVacationHome.
+
+![Architecture Diagram](docs/DALVacation_Home_Architecture_Diagram.png)
+
 
 ## Modules
 
