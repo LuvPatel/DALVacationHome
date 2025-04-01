@@ -75,13 +75,17 @@ The application is deployed using a multi-cloud model, leveraging a mix of AWS a
 
 ## Application Screenshots
 
-![SignUp Page](docs/SignUp Page.png)
+#### Signup Page
+![SignUp Page](docs/SignUp_Page.png)
 
-![SignUp Page 2](docs/SignUp_Page_1.png)
+#### Verification Page
+![SignUp Page 2](docs/Verification_Page.png)
 
-![SignUp Page](docs/SignIn Page.png)
+#### Homepage
+![HomePage](docs/Homepage.png)
 
-![SignUp Page 2](docs/Homepage.png)
+#### Virtual Assistant
+![Virtial assistant Chat Page](docs/Virtual_Assistant_Page.png)
 
 
 ## Setup Instructions
