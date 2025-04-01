@@ -73,6 +73,17 @@ The application is deployed using a multi-cloud model, leveraging a mix of AWS a
 -   **Messaging**: GCP Pub/Sub, AWS SQS
 -   **Notifications**: AWS SNS, AWS Cognito
 
+## Application Screenshots
+
+![SignUp Page](docs/SignUp Page.png)
+
+![SignUp Page 2](docs/SignUp_Page_1.png)
+
+![SignUp Page](docs/SignIn Page.png)
+
+![SignUp Page 2](docs/Homepage.png)
+
+
 ## Setup Instructions
 
 [](https://github.com/jeffrypaul37/DALVacationHome?tab=readme-ov-file#setup-instructions)
